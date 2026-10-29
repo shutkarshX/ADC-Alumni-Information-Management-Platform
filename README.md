@@ -19,7 +19,7 @@ docs/
 
 ## Current status
 
-**Setup only — implementation has not started.** See [ADC Topic Approval transcription](docs/ADC_TOPIC_APPROVAL.md), [Project Scope](docs/PROJECT_SCOPE.md), and [Phase Tracker](docs/PHASE_TRACKER.md).
+**Setup only — implementation has not started.** See [ADC Topic Approval transcription](docs/ADC_TOPIC_APPROVAL.md), [Project Scope](docs/PROJECT_SCOPE.md), [Requirements Traceability](docs/REQUIREMENTS_TRACEABILITY.md), [Phase 1 Acceptance Criteria](docs/PHASE_1_ACCEPTANCE.md), and [Phase Tracker](docs/PHASE_TRACKER.md).
 
 ## Local setup
 
