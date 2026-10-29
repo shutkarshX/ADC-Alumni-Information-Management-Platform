@@ -1,29 +1,32 @@
 # Project Scope — ADC
 
-## Status
+## Confirmed approval details
 
-**Pending verification against the official ADC topic-approval document.**
+- **Subject:** Advances in Computing (ADC)
+- **Course code:** CCSDS0302
+- **Approved topic:** Alumni Information Management Platform
+- **Faculty:** Mr. Archit
 
-The repository name is **ADC — Alumni Information Management Platform**. This title alone is not enough to infer the required modules, features, architecture, or assessment criteria.
+These details were identified from the ADC topic-approval material in the earlier project discussion. The approval form itself should be added to this repository so the source of truth travels with the project.
 
-## Source of truth
+## Scope and requirements
 
-Before implementation, record the following from the actual ADC approval document and faculty instructions:
+The approved title is confirmed, but the complete verbatim problem statement, objectives, required features, and assessment criteria are not reproduced here yet. Do not infer them from the title or from the separate Java Alumni Engagement and Networking System repository.
 
-- Exact approved project title
-- Problem statement and objectives
-- Required scope/features
-- Subject-specific concepts that must be demonstrated
-- Constraints, deliverables, and assessment criteria
+Before implementation, transcribe the relevant requirements from the ADC approval form and faculty instructions into this section, preserving their meaning.
 
-Do not substitute another subject's approval form or project requirements. Similar project names across subjects do not establish that their scope is identical.
+## Subject-specific alignment
 
-## Explicit exclusions until approved
+ADC module concepts and project requirements must be connected only where the course materials and approval requirements support that connection. Do not invent a relationship between the alumni platform and a syllabus topic merely to make the report appear aligned.
 
-- Do not copy implementation code from the existing Java Alumni Engagement and Networking System repository.
-- Do not claim that a database, authentication, web interface, networking, or other feature is required unless the ADC source confirms it.
-- Do not mark a phase complete without actual implementation and verifiable evidence.
+## Project boundaries
 
-## Next action
+- This repository is for ADC only.
+- The existing Java Alumni Engagement and Networking System is a separate project for another subject. Do not copy its code, tests, commits, or evidence into this repository.
+- Do not claim a database, authentication, web interface, networking, or other feature is required unless supported by the approved scope or faculty instructions.
+- Do not claim implementation or testing that has not actually occurred.
+- Each phase must have defined deliverables and acceptance checks before work starts, and actual evidence before it is marked complete.
 
-Add or consult the **ADC-specific** topic approval document, then update this file with its exact requirements and link to the source file in the repository.
+## Next step
+
+Add the ADC-specific topic-approval document to this repository and fill in the exact problem statement, objectives, scope, and evaluation requirements from that source.
