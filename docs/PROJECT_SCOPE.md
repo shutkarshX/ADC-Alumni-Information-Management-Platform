@@ -35,6 +35,9 @@ The earlier ADC planning notes identify Module 1 as **Structure of Computer & AL
 - Do not claim implementation or testing that has not actually occurred.
 - Define deliverables and acceptance checks before each phase; mark a phase complete only after implementation and checks are verified.
 
-## Next step
+## Requirements and implementation planning
 
-Finalize a traceable requirements checklist from the ADC Progress Report I and faculty instructions, then define Phase 1 acceptance checks before implementation.
+- [Requirements traceability checklist](REQUIREMENTS_TRACEABILITY.md)
+- [Phase 1 scope and acceptance criteria](PHASE_1_ACCEPTANCE.md)
+
+The next step is to resolve the course-code discrepancy with the faculty/course materials, then implement Phase 1 against these acceptance checks.
