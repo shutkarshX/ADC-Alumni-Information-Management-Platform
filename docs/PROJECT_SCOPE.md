@@ -27,6 +27,10 @@ These are proposed project requirements from the available ADC report material, 
 
 The earlier ADC planning notes identify Module 1 as **Structure of Computer & ALU** and Module 2 as **Control Unit & Memory Unit**. The project must demonstrate the concepts actually required by the course materials; do not invent a relationship between these topics and an alumni platform. Confirm the applicable assignment instructions and explain any mapping with evidence.
 
+## Final deliverable requirement
+
+The final project must be a **web-based application** accessible through a browser, with a frontend connected to backend functionality and persistent data storage. A console-only or desktop-only application does not meet the final deliverable requirement. Phase 1 will begin with a small working web application for core alumni-record management; additional features can be added in later phases after requirements are confirmed.
+
 ## Project boundaries
 
 - This repository is for ADC only.
