@@ -19,7 +19,7 @@ docs/
 
 ## Current status
 
-**Setup only — implementation has not started.** See [Project Scope](docs/PROJECT_SCOPE.md) and [Phase Tracker](docs/PHASE_TRACKER.md).
+**Setup only — implementation has not started.** See [ADC Topic Approval transcription](docs/ADC_TOPIC_APPROVAL.md), [Project Scope](docs/PROJECT_SCOPE.md), and [Phase Tracker](docs/PHASE_TRACKER.md).
 
 ## Local setup
 
