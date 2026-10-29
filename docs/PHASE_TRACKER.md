@@ -1,19 +1,19 @@
 # Phase Tracker — ADC
 
-This tracker records only work that has actually been completed and verified.
+Status values: **Not started**, **In progress**, **Blocked**, **Verified complete**. Only use Verified complete when the relevant evidence is recorded.
 
-| Phase | Status | Evidence |
+| Workstream | Status | Completion evidence / next action |
 |---|---|---|
-| Scope verification | In progress | ADC approval source still needs to be confirmed in this repository |
-| Phase 1 | Not started | None |
-| Phase 2 | Not started | None |
-| Final validation | Not started | None |
-| Report preparation | Not started | Must reflect verified work only |
+| Approval and source review | In progress | Approval form and Report I reviewed; confirm course-code discrepancy (CCSDS0302 vs BCSDS0303N) with faculty |
+| Requirements traceability | In progress | Checklist recorded in [REQUIREMENTS_TRACEABILITY.md](REQUIREMENTS_TRACEABILITY.md); verify against faculty instructions |
+| Phase 1 implementation | Not started | Follow [PHASE_1_ACCEPTANCE.md](PHASE_1_ACCEPTANCE.md); no implementation or test evidence claimed yet |
+| Phase 1 validation | Not started | Run and record each acceptance check against actual code |
+| Phase 2 planning | Not started | Plan only after Phase 1 scope and faculty expectations are confirmed |
+| Final review and report | Not started | Use real implementation, test, and screenshot evidence only |
 
 ## Working rules
 
-1. Confirm the ADC-approved scope before choosing implementation details.
-2. Define phase deliverables and acceptance checks before coding each phase.
-3. Run and record the actual checks; keep commands and results where useful.
-4. Mark a phase complete only after its acceptance checks pass.
-5. Keep report statements aligned with the code and evidence available at that time.
+- Keep ADC separate from all other subject projects.
+- Use the approval form and ADC report/course instructions as sources; mark assumptions explicitly.
+- Do not claim a feature, test, screenshot, or milestone that has not been verified.
+- Update statuses only when evidence exists.
