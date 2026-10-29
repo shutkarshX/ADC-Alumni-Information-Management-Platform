@@ -2,22 +2,30 @@
 
 ## Confirmed approval details
 
+The approval fields are transcribed in [ADC Topic Approval](ADC_TOPIC_APPROVAL.md).
+
 - **Subject:** Advances in Computing (ADC)
 - **Course code:** CCSDS0302
-- **Approved topic:** Alumni Information Management Platform
 - **Faculty:** Mr. Archit
+- **Approved topic:** Alumni Information Management Platform
+- **Domain:** Quality Education
+- **Student team:** Group 69 is identified in the related ADC Progress Report I.
 
-These details were identified from the ADC topic-approval material in the earlier project discussion. The approval form itself should be added to this repository so the source of truth travels with the project.
+## Requirements supported by available ADC project material
 
-## Scope and requirements
+The Month 1 report identifies the problem direction as organizing alumni information and proposes a workflow involving:
 
-The approved title is confirmed, but the complete verbatim problem statement, objectives, required features, and assessment criteria are not reproduced here yet. Do not infer them from the title or from the separate Java Alumni Engagement and Networking System repository.
+- Alumni profiles and profile storage
+- Search and filtering of alumni records
+- Analytics summaries (for example, by batch, branch, or industry sector)
+- A simple mentor-matching suggestion
+- Related records/entities: Alumni Profile, Event, Job/Referral Post, and Mentorship Request
 
-Before implementation, transcribe the relevant requirements from the ADC approval form and faculty instructions into this section, preserving their meaning.
+These are proposed project requirements from the available ADC report material, not claims that those features have already been implemented. Confirm the final required deliverables against the report and faculty instructions before treating this list as a binding acceptance checklist.
 
-## Subject-specific alignment
+## Course-specific alignment
 
-ADC module concepts and project requirements must be connected only where the course materials and approval requirements support that connection. Do not invent a relationship between the alumni platform and a syllabus topic merely to make the report appear aligned.
+The earlier ADC planning notes identify Module 1 as **Structure of Computer & ALU** and Module 2 as **Control Unit & Memory Unit**. The project must demonstrate the concepts actually required by the course materials; do not invent a relationship between these topics and an alumni platform. Confirm the applicable assignment instructions and explain any mapping with evidence.
 
 ## Project boundaries
 
@@ -25,8 +33,8 @@ ADC module concepts and project requirements must be connected only where the co
 - The existing Java Alumni Engagement and Networking System is a separate project for another subject. Do not copy its code, tests, commits, or evidence into this repository.
 - Do not claim a database, authentication, web interface, networking, or other feature is required unless supported by the approved scope or faculty instructions.
 - Do not claim implementation or testing that has not actually occurred.
-- Each phase must have defined deliverables and acceptance checks before work starts, and actual evidence before it is marked complete.
+- Define deliverables and acceptance checks before each phase; mark a phase complete only after implementation and checks are verified.
 
 ## Next step
 
-Add the ADC-specific topic-approval document to this repository and fill in the exact problem statement, objectives, scope, and evaluation requirements from that source.
+Finalize a traceable requirements checklist from the ADC Progress Report I and faculty instructions, then define Phase 1 acceptance checks before implementation.
